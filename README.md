@@ -49,4 +49,4 @@ Otherwise, in case of successful defence, the cards on the table are discarded.
 
 ## Development Status
 
-First draft of the game. 
+Card Class defined, Unit Test For Card created.

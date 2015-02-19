@@ -1,9 +1,8 @@
 """Run the game! """
 
-from src.Card import *
+# from src.Card import *
 
-c = Card()
-c.print_sth()
+
 
 
 
